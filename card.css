@@ -54,3 +54,7 @@ h2 {
     opacity: 0.5;
     transition: opacity color ease-in-out 0.2s;
 }
+
+.contacts .tweek {
+    margin-top: -10px;
+}
