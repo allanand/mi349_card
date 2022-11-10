@@ -56,6 +56,6 @@ h2 {
 }
 
 ul li image:nth-child(1) {
-    color: brown;
+    margin-top: -50px;
 }
 
