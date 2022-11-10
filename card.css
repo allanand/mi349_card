@@ -52,5 +52,6 @@ h2 {
 
 .contacts li a img:hover {
     opacity: 0.5;
+    color: blue;
     transition: opacity color ease-in-out 0.2s;
 }
