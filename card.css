@@ -55,6 +55,7 @@ h2 {
     transition: opacity color ease-in-out 0.2s;
 }
 
-.contacts li a img .tweek {
+ul li:nth-child(1) {
     margin-top: -20px;
 }
+
